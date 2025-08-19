@@ -11,7 +11,6 @@ for(i=0;A[i]!=0;i++){
     else if(A[i]>=97&&A[i]<=122){
         A[i] -=32;
     }
-    cout<<A[i];
 }
-return 0;
+cout<<A;
 }

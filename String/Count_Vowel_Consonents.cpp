@@ -11,8 +11,7 @@ for(i=0;A[i]!=0;i++){
     else if((A[i]>=97&&A[i]<=122)||(A[i]>=65&&A[i]<=90)){
         c_count++;
     }
-    
 }
-cout<<"the number of Vowels are: "<<v_count<<" And The number of consonents are: "<<c_count;
+cout<<"the number of Vowels are: "<<v_count<<" And The number of consonants are: "<<c_count;
 return 0;
 }
